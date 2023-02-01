@@ -12,7 +12,12 @@
     "expo": "~47.0.12",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-numeric-input": "^1.9.1",
+    "react-native-snap-carousel": "^3.9.1",
+    "react-native-sortable-listview": "^0.2.9",
+    "react-native-uuid": "^2.0.1",
+    "react-native-vector-icons": "^9.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
